@@ -1,0 +1,79 @@
+[
+  {
+    "value": "gelb",
+    "synonyms": [
+      "gelb",
+      "gelb",
+      "gelber",
+      "gelbes",
+      "gelbe",
+      "gelben",
+      "gelbem"
+    ]
+  },
+  {
+    "value": "rot",
+    "synonyms": [
+      "rot",
+      "rotes",
+      "roter",
+      "rote",
+      "roten",
+      "rotem"
+    ]
+  },
+  {
+    "value": "blau",
+    "synonyms": [
+      "blau",
+      "blaue",
+      "blaues",
+      "blauem",
+      "blauen",
+      "blauer"
+    ]
+  },
+  {
+    "value": "schwarz",
+    "synonyms": [
+      "schwarz",
+      "schwarzer",
+      "schwarzes",
+      "schwarze",
+      "schwarzen",
+      "schwarzem"
+    ]
+  },
+  {
+    "value": "grün",
+    "synonyms": [
+      "grün",
+      "grünes",
+      "grüner",
+      "grüne",
+      "grünem",
+      "grünen"
+    ]
+  },
+  {
+    "value": "weiß",
+    "synonyms": [
+      "weiß",
+      "weißes",
+      "weiße",
+      "weißem",
+      "weißen",
+      "weißer"
+    ]
+  },
+  {
+    "value": "lila",
+    "synonyms": [
+      "lila",
+      "lilarer",
+      "lilare",
+      "lilarem",
+      "lilares"
+    ]
+  }
+]

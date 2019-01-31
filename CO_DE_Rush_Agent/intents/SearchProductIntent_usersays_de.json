@@ -1,0 +1,136 @@
+[
+  {
+    "id": "76493c27-b106-4c9d-bb69-bb0fba47155d",
+    "data": [
+      {
+        "text": "finde ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "schwarzes",
+        "alias": "Color",
+        "meta": "@Color",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "iphone",
+        "alias": "Product",
+        "meta": "@Product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543072586
+  },
+  {
+    "id": "2be18425-5c55-4ee7-ac88-18cb541820c7",
+    "data": [
+      {
+        "text": "suche ",
+        "userDefined": false
+      },
+      {
+        "text": "nach einer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "schwarzen",
+        "alias": "Color",
+        "meta": "@Color",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Jacke",
+        "alias": "Product",
+        "meta": "@Product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1543072476
+  },
+  {
+    "id": "bbd5ff4a-e517-4a6c-964d-5d704169cfa7",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "schwarze",
+        "alias": "Color",
+        "meta": "@Color",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Jacken",
+        "alias": "Product",
+        "meta": "@Product",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542991327
+  },
+  {
+    "id": "cc8f7609-1560-4b0d-afe6-b29d71e2e593",
+    "data": [
+      {
+        "text": "Suche nach ",
+        "userDefined": false
+      },
+      {
+        "text": "schwarzen",
+        "alias": "Color",
+        "meta": "@Color",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Jacken",
+        "alias": "Product",
+        "meta": "@Product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1542991327
+  }
+]

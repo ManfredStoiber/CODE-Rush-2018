@@ -1,0 +1,46 @@
+{
+  "id": "10ea9560-9468-4c58-a018-6b6f66a81cf8",
+  "name": "SearchProductIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d4a86bad-aaba-4262-a219-9717b4a074e8",
+          "required": false,
+          "dataType": "@Product",
+          "name": "Product",
+          "value": "$Product",
+          "isList": false
+        },
+        {
+          "id": "ff011545-78e7-458a-900f-384e29c0cb36",
+          "required": false,
+          "dataType": "@Color",
+          "name": "Color",
+          "value": "$Color",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1543081381,
+  "fallbackIntent": false,
+  "events": []
+}

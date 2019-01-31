@@ -1,0 +1,46 @@
+[
+  {
+    "value": "Iphone",
+    "synonyms": [
+      "Iphone",
+      "Apple Iphone"
+    ]
+  },
+  {
+    "value": "Schuhe",
+    "synonyms": [
+      "Schuhe",
+      "Schuh",
+      "Boots",
+      "Sneakers"
+    ]
+  },
+  {
+    "value": "Jacke",
+    "synonyms": [
+      "Jacken"
+    ]
+  },
+  {
+    "value": "Mantel",
+    "synonyms": [
+      "Mantel"
+    ]
+  },
+  {
+    "value": "T-Shirt",
+    "synonyms": [
+      "Blazer",
+      "Shirt",
+      "Pullover"
+    ]
+  },
+  {
+    "value": "Hose",
+    "synonyms": [
+      "Hose",
+      "Jeans",
+      "Shorts"
+    ]
+  }
+]
